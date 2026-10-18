@@ -102,7 +102,7 @@ function App() {
           onClick={() => mudarTela("inicio")}
           aria-label="Voltar para o início"
         >
-          <span className="logo-simbolo">Menos </span>
+          <span className="logo-simbolo"></span>
           <span>
             Mosquitão <strong>Brasil</strong>
           </span>
