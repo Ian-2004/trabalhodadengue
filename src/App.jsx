@@ -47,6 +47,7 @@ const focos = [
   },
 ];
 
+
 const tarefas = [
   "Verificar os vasos de plantas",
   "Retirar água parada do quintal",
@@ -104,7 +105,7 @@ function App() {
         >
           <span className="logo-simbolo"></span>
           <span>
-            Mosquitão <strong>Brasil</strong>
+            Mosquito
           </span>
         </button>
 
