@@ -83,14 +83,14 @@ src/
 https://github.com/Ian-2004/trabalhodadengue
 
 ## Equipe
-inaldo e igor
+
 <table>
   <tr>
 
   <td align="center">
       <a href="https://github.com/Ian-2004" title="Inaldo Lima">
         <img src="src/assets/ianpicture.jpg" width="100px;" alt="Foto do Ian"/><br>
-        <sub><b>Inaldo da Silva Limna</b></sub>
+        <sub><b>Inaldo da Silva Lima</b></sub>
       </a>
     </td>
 
