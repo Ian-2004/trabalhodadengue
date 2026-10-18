@@ -83,7 +83,7 @@ src/
 https://github.com/Ian-2004/trabalhodadengue
 
 ## Equipe
-
+inaldo e igor
 <table>
   <tr>
 
