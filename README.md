@@ -1,4 +1,4 @@
-# Mosquito Brasil
+# 🦟 Mosquito Brasil
 
 Site informativo de conscientização sobre a dengue, desenvolvido em React para a atividade prática de Front-End.
 
