@@ -105,7 +105,7 @@ function App() {
         >
           <span className="logo-simbolo"></span>
           <span>
-            Mosquito
+            Mosquito Brasil
           </span>
         </button>
 
@@ -449,7 +449,7 @@ function App() {
 
       <footer className="rodape">
         <div className="rodape-logo">
-          Mosquitão <strong>Brasil</strong>
+          Mosquito <strong>Brasil</strong>
         </div>
         <p>
           Informação, prevenção e participação de todos no combate à dengue.
