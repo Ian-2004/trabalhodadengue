@@ -1,16 +1,46 @@
-# React + Vite
+# Dengue Zero
+## Sobre o projeto:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O Dengue Zero é um site informativo criado para conscientizar as pessoas sobre a prevenção da dengue e os cuidados necessários para evitar a proliferação do mosquito Aedes aegypti.
 
-Currently, two official plugins are available:
+A dengue é uma doença infecciosa causada por um vírus transmitido pela picada da fêmea do mosquito Aedes aegypti. Esse mosquito costuma se reproduzir em locais com água parada, como pneus, garrafas, vasos de plantas, caixas-d'água destampadas e outros recipientes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A dengue é um problema de saúde pública e pode atingir pessoas de todas as idades. Em alguns casos, a doença pode evoluir para formas graves, por isso é importante conhecer os sintomas e as formas de prevenção.
 
-## React Compiler
+## Objetivo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Informar a população sobre os principais focos do mosquito da dengue e mostrar maneiras de prevenir sua reprodução.
 
-## Expanding the ESLint configuration
+## Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- HTML
+- CSS
+
+## Pre requisitos: 
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+Você instalou a versão mais recente de Node.js e npm.
+Você tem um editor de código (recomendado: VS Code).
+React:::
+
+
+## Como executar o projeto
+
+1. Abra a pasta do projeto no VS Code.
+2. Abra o terminal.
+3. Execute o comando:
+
+   npm install
+
+4. Depois, execute:
+
+   npm run dev   ou o /  npm.cmd run dev
+
+5. Abrir no navegador o endereço informado pelo terminal.
+
+cpoie o link do github: https://github.com/Ian-2004/trabalhodadengue
+
+Projeto desenvolvido para fins educativos e conhecimentos de dominio publico e geral.
