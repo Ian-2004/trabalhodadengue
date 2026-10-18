@@ -1,5 +1,4 @@
 # Dengue Zero
-
 ## Sobre o projeto:
 
 O Dengue Zero é um site informativo criado para conscientizar as pessoas sobre a prevenção da dengue e os cuidados necessários para evitar a proliferação do mosquito Aedes aegypti.
